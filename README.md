@@ -1,8 +1,8 @@
 # Fancy Counter App Exercise
 
-This project is part of [Byte Grad's](https://bytegrad.com/) Javascript course that I made some changes to. Specifically, I added the ability to "unlock" PRO mode by selecting the lock icon at the bottom to get past this limit
+This project is part of [Byte Grad's](https://bytegrad.com/) Javascript course that I made some changes to. Specifically, I added the ability to "unlock" PRO mode by selecting the lock icon at the bottom to get past this limit.
 
-![counter-app-example-with-count-3](meta/fancy-counter-example.png)
+![counter-app-example-with-count-4](meta/fancy-counter-example.png)
 
 ## How to Use
 
